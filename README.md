@@ -1,2 +1,3 @@
-# TopSubtitleBar
-TabLayout based on LinearLayout / Top Navigation Layout
+# SubtitleLayout
+* TabLayout based on LinearLayout / Top Navigation Layout
+* TopSubtitleBar -> SubtitleLayout renamed.
